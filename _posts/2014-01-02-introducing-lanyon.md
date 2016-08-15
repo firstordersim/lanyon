@@ -1,20 +1,12 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Some notes on Digital Pedagogy Lab 2016
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
-### Built on Poole
+What is Lorem Ipsum?
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
-
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 ### Lanyon features
 

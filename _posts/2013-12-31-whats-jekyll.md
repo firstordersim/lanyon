@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Will I ever write a second post?
-image:  lanyon/_includes/booksareweapons.jpg 
 ---
  
 

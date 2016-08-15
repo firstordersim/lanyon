@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Will I ever write a second post?
+href=http:clker.com/cliparts/J/w/F/k/G/P/books-are-weapons-read-about-the-negro-in-national-defense-africa-and-the-war-and-negro-history-and-md.png
 ---
  
 

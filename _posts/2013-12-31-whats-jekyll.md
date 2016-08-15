@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Will I ever write a second post?
-image: /_includes/booksareweapons.jpg
+image: _includes/booksareweapons.jpg
 ---
  
 
